@@ -1,4 +1,4 @@
-## Retinal data used in `Inferring hidden structure in multilayered neural circuits
+## Retinal data used in `Inferring hidden structure in multilayered neural circuits`
 
 This repository contains data used in the paper [Inferring hidden data in multilayered neural circuits](https://www.biorxiv.org/content/early/2018/06/14/120956).
 
