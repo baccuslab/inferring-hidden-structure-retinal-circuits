@@ -28,7 +28,7 @@ If you use the data in this repo, please cite our paper (https://www.biorxiv.org
 ```
 @article{maheswaranathan2017inferring,
   title={Inferring hidden structure in multilayered neural circuits},
-  author={Maheswaranathan, Niru, Kastner, David, Baccus, Stephen A and Ganguli, Surya},
+  author={Maheswaranathan, Niru, Kastner, David B, Baccus, Stephen A and Ganguli, Surya},
   journal={bioRxiv},
   pages={120956},
   year={2017},
