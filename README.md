@@ -24,14 +24,16 @@ Example LN model parameters (linear filter and nonlinearity) that result from ru
 
 ### Citation
 
-If you use the data in this repo, please cite our paper (https://www.biorxiv.org/content/early/2018/06/14/120956)
+If you use the data in this repo, please cite our paper (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006291)
 ```
-@article{maheswaranathan2017inferring,
+@article{maheswaranathan2018inferring,
   title={Inferring hidden structure in multilayered neural circuits},
-  author={Maheswaranathan, Niru, Kastner, David B, Baccus, Stephen A and Ganguli, Surya},
-  journal={bioRxiv},
-  pages={120956},
-  year={2017},
-  publisher={Cold Spring Harbor Laboratory}
+  author={Maheswaranathan, Niru and Kastner, David B and Baccus, Stephen A and Ganguli, Surya},
+  journal={PLoS computational biology},
+  volume={14},
+  number={8},
+  pages={e1006291},
+  year={2018},
+  publisher={Public Library of Science}
 }
 ```
