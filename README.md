@@ -7,6 +7,9 @@ The data consists of the responses of 23 salamander retinal ganglion cells in re
 These data were used to fit linear-nonlinear (LN) and multilayered linear-nonlinear (LN-LN) models to retinal data.
 The example scripts provided show how to fit these models on this data using the open source [nems](https://github.com/ganguli-lab/nems) package.
 
+### Data
+You can download the dataset needed to run the demo at this [Google Drive](https://drive.google.com/file/d/1CiNkq1Jq6uHyYoXFnHy8XxhrfZA4sPAn/view?usp=sharing) link.
+
 ### Demo
 
 To run the demo, first install the [nems](https://github.com/ganguli-lab/nems) package (and its dependencies).
